@@ -1,0 +1,9 @@
+# Core ML libraries
+numpy
+pandas
+scikit-learn
+
+# Development tools
+pylint
+black
+pytest
